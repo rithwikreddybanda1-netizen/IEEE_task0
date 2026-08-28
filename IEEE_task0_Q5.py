@@ -1,7 +1,10 @@
 import pandas as pd
-#importing pandas
+from pathlib import Path
+#importing pandas and Path
 
-df = pd.read_csv("student_performance.csv")
+BASE_DIR = Path(__file__).resolve().parent
+csv_path = BASE_DIR / "student_performance.csv"
+df = pd.read_csv(csv_path)
 #1. Load the CSV into a DataFrame.
 
 print("\n", df[:5])
