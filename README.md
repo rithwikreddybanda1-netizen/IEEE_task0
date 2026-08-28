@@ -2,7 +2,7 @@
 
 This repository contains six introductory Python exercises covering lists, functions, prime numbers, NumPy, pandas, and Matplotlib.
 
-# Requirements
+## Requirements
 
 - Python 3.10 or newer
 
