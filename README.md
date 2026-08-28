@@ -26,9 +26,9 @@ Close each graph window to allow Question 6 to continue to the next graph.
 
 Script           : What it does 
 
-IEEE_task0_Q1.py : Reads a list of integers and reports its minimum, maximum, even/odd sums, and reverse.
-IEEE_task0_Q2.py : Copies a list, removes negative values, appends `0`, and sorts it.
-IEEE_task0_Q3.py : Prints prime numbers below a user-provided upper limit.
-IEEE_task0_Q4.py : Demonstrates basic NumPy array statistics and Boolean indexing.
-IEEE_task0_Q5.py : Uses pandas to inspect and transform student-performance data.
-IEEE_task0_Q6.py : Visualizes the processed student-performance data with Matplotlib.
+- IEEE_task0_Q1.py : Reads a list of integers and reports its minimum, maximum, even/odd sums, and reverse.
+- IEEE_task0_Q2.py : Copies a list, removes negative values, appends `0`, and sorts it.
+- IEEE_task0_Q3.py : Prints prime numbers below a user-provided upper limit.
+- IEEE_task0_Q4.py : Demonstrates basic NumPy array statistics and Boolean indexing.
+- IEEE_task0_Q5.py : Uses pandas to inspect and transform student-performance data.
+- IEEE_task0_Q6.py : Visualizes the processed student-performance data with Matplotlib.
