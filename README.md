@@ -15,9 +15,13 @@ The third-party Python packages used by the exercises are:
 ## Run the exercises
 
 Questions 1–3 prompt for input in the terminal. 
+
 Question 4 prints NumPy calculations. 
+
 Question 5 reads 'student_performance.csv', processes it, and writes 'final_student_performance.csv'. 
+
 Question 6 reads 'final_student_performance.csv' and opens four graphs.
+
 
 Run Question 5 before Question 6 when starting from a fresh clone so that the processed CSV is generated. 
 Close each graph window to allow Question 6 to continue to the next graph.
